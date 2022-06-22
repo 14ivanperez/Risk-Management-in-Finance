@@ -2,13 +2,12 @@
 
 ---
 
-### Value at Risk and Expected Shortfall
-
+### Main tools
 VaR
-<img src="images/VAR.jpg>
+<img src="images/VAR.jpg?raw=true"/>
 ---
 ES
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ES.jpg?raw=true"/>
 
 
 ---
@@ -16,8 +15,11 @@ ES
 ### Distributions used
 
 - Random Distribution
+<img src="images/Random Distribution.jpg?raw=true/">
 - Empirical Distribution
+<img src="images/Empirical Distribution.png?raw=true"/>
 - Student T Distribution
+<img src="images/Student t Distribution.jpg?raw=true"/>
 
 ### Simulations used to estimate  VaR and ES at 10-day horizon
 
