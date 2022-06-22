@@ -2,14 +2,13 @@
 
 ---
 
-### Main tools
+### Main risk  tools
 VaR
 <img src="images/VAR.jpg?raw=true"/>
 ---
+
 ES
 <img src="images/ES.jpg?raw=true"/>
-
-
 ---
 
 ### Distributions used
