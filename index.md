@@ -15,7 +15,7 @@ ES
 ### Distributions used
 
 - Random Distribution
-<img src="images/Random Distribution.jpg?raw=true/">
+<img src="images/Random Distribution.png">
 - Empirical Distribution
 <img src="images/Empirical Distribution.png?raw=true"/>
 - Student T Distribution
