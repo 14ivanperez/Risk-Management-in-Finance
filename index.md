@@ -15,11 +15,11 @@ ES
 ### Distributions used
 
 - Random Distribution
-<img src="images/Random Distribution.png">
+<img src="images/Random distribution.png">
 - Empirical Distribution
-<img src="images/Empirical Distribution.png?raw=true"/>
+<img src="images/Empirical distribution.png"/>
 - Student T Distribution
-<img src="images/Student t Distribution.jpg?raw=true"/>
+<img src="images/Student t distribution.png"/>
 
 ### Simulations used to estimate  VaR and ES at 10-day horizon
 
