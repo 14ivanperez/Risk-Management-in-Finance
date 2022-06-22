@@ -14,33 +14,26 @@ library(metRology)
 library(rugarch)
 ````
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Topics discused
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# TO OBTAIN VAR AND ES FROM ACTUAL DATA
+# VAR AND ES FROM SIMULATIONS:
+1. different distributions (randon, normal, t)
+2. Calculate skewness, kurtosis, and Jarque-Bera test 
+# ESTIMATE VaR and ES at 10-DAY HORIZON
+# ACF AND VOLATILITY CLUSTERING USING GARCH MODELS
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Roadmap
 
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
+```markdown
+# Data source (FRED at the Federal Reserve Bank of St. Louis), and the calculation of returns 
+## How to calculate value-at-risk (VaR) and expected shortfall (ES) when returns are normally distribute
+### How to calculate VaR and ES when returns aren't normally distributed (random and t distributed)
+#### Test for the presence of volatility clustering (Jarque-Bera test ), and how to calculate VaR and ES when returns exhibit volatility clustering
+```
 ___
 
 ### References
